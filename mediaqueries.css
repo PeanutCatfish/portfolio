@@ -157,5 +157,9 @@
         transition: all 0.3 ease-in-out;
     }
 
+    #projects {
+        margin: 0;
+    }
+
 }
 
